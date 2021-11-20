@@ -1,6 +1,8 @@
 from tkinter import *
 from tkinter import ttk
 
+# Already Edited Code
+
 Informations = {
     "모악산":"""모악산(母岳山)은 전라북도 김제시와 완주군에 걸쳐있는 높이 793m의 산이다.
     1971년 12월 1일에 도립공원으로 지정 되었다.
