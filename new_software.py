@@ -1,7 +1,7 @@
+# Before Editing Code
+
 from tkinter import *
 from tkinter import ttk
-
-
 
 
 def mountains(): #changing
